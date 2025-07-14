@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/gerenciador-academia/static/css/main.3d9c6d65.css",
+    "main.js": "/gerenciador-academia/static/js/main.a79de566.js",
+    "static/js/453.ee391059.chunk.js": "/gerenciador-academia/static/js/453.ee391059.chunk.js",
+    "index.html": "/gerenciador-academia/index.html",
+    "main.3d9c6d65.css.map": "/gerenciador-academia/static/css/main.3d9c6d65.css.map",
+    "main.a79de566.js.map": "/gerenciador-academia/static/js/main.a79de566.js.map",
+    "453.ee391059.chunk.js.map": "/gerenciador-academia/static/js/453.ee391059.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3d9c6d65.css",
+    "static/js/main.a79de566.js"
+  ]
+}
