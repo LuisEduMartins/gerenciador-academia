@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/gerenciador-academia/static/css/main.75a4989e.css",
-    "main.js": "/gerenciador-academia/static/js/main.1a0ed299.js",
+    "main.js": "/gerenciador-academia/static/js/main.3a896e63.js",
     "static/js/453.ee391059.chunk.js": "/gerenciador-academia/static/js/453.ee391059.chunk.js",
     "index.html": "/gerenciador-academia/index.html",
     "main.75a4989e.css.map": "/gerenciador-academia/static/css/main.75a4989e.css.map",
-    "main.1a0ed299.js.map": "/gerenciador-academia/static/js/main.1a0ed299.js.map",
+    "main.3a896e63.js.map": "/gerenciador-academia/static/js/main.3a896e63.js.map",
     "453.ee391059.chunk.js.map": "/gerenciador-academia/static/js/453.ee391059.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.75a4989e.css",
-    "static/js/main.1a0ed299.js"
+    "static/js/main.3a896e63.js"
   ]
 }
