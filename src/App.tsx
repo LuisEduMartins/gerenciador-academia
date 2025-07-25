@@ -240,7 +240,7 @@ function App() {
       </Modal>
 
       <footer style={{padding: "2rem", color: "#FFFFFF"}}>
-        <p><a href="https://github.com/LuisEduMartins/trabalhoweb2">Link do repositorio</a></p>
+        <p><a href="https://github.com/LuisEduMartins/gerenciador-academia">Link do repositorio</a></p>
       </footer>
     </div>
   );
