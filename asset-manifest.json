@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/gerenciador-academia/static/css/main.75a4989e.css",
-    "main.js": "/gerenciador-academia/static/js/main.3a896e63.js",
-    "static/js/453.ee391059.chunk.js": "/gerenciador-academia/static/js/453.ee391059.chunk.js",
-    "index.html": "/gerenciador-academia/index.html",
-    "main.75a4989e.css.map": "/gerenciador-academia/static/css/main.75a4989e.css.map",
-    "main.3a896e63.js.map": "/gerenciador-academia/static/js/main.3a896e63.js.map",
-    "453.ee391059.chunk.js.map": "/gerenciador-academia/static/js/453.ee391059.chunk.js.map"
+    "main.css": "/trabalhoweb2/static/css/main.75a4989e.css",
+    "main.js": "/trabalhoweb2/static/js/main.f40cba80.js",
+    "static/js/453.ee391059.chunk.js": "/trabalhoweb2/static/js/453.ee391059.chunk.js",
+    "index.html": "/trabalhoweb2/index.html",
+    "main.75a4989e.css.map": "/trabalhoweb2/static/css/main.75a4989e.css.map",
+    "main.f40cba80.js.map": "/trabalhoweb2/static/js/main.f40cba80.js.map",
+    "453.ee391059.chunk.js.map": "/trabalhoweb2/static/js/453.ee391059.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.75a4989e.css",
-    "static/js/main.3a896e63.js"
+    "static/js/main.f40cba80.js"
   ]
 }
